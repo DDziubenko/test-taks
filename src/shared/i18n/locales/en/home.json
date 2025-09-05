@@ -1,0 +1,20 @@
+{
+	"title": "WinWinTravel frontend test task",
+	"buttons": {
+		"openFiltersModal": "Open Filters Modal",
+		"applyFilters": "Apply Filters",
+		"applying": "Applying...",
+		"close": "Close"
+	},
+	"loading": {
+		"filters": "Loading filters..."
+	},
+	"errors": {
+		"loadingFilters": "Error loading filters: {{message}}"
+	},
+	"data": {
+		"filterDataTitle": "Filter Data (API Response)",
+		"selectedFiltersTitle": "Selected Filters (Variable)",
+		"noDataLoaded": "No data loaded"
+	}
+}

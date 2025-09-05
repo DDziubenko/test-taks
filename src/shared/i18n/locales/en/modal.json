@@ -1,0 +1,12 @@
+{
+	"filterModal": {
+		"title": "Filter Data",
+		"clearAllButton": "Clear all parameters",
+		"applyButton": "Apply"
+	},
+	"confirmationModal": {
+		"title": "Do you want to apply new filter?",
+		"useOldFilter": "Use old filter",
+		"applyNewFilter": "Apply new filter"
+	}
+}
